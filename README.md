@@ -31,10 +31,10 @@ cd XCUITest-Lesson-2-Base-Class-And-Extensions
 2. Open the project in XCode
 3. Click on the Test Navigator icon in the left navigation pane
 
-<img src="https://i.imgur.com/wyBCzGO.png"/>
+<img src="https://i.imgur.com/wyBCzGO.png" height="500" width="500"/>
 
 4. Click the Play icon next to the individual test under <b>Lesson2_BaseClassUITests</b> to run just that test.
 
-<img src="https://i.imgur.com/kI7J2Ol.png"/>
+<img src="https://i.imgur.com/kI7J2Ol.png" height="500" width="500"/>
 
 5. If you want to run all the tests you can click the Play icon beside <b>Lesson2_BaseClassUITests</b>
