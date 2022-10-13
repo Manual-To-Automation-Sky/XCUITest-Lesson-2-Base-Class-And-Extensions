@@ -25,14 +25,16 @@ git clone https://github.com/Manual-To-Automation-Sky/XCUITest-Lesson-2-Base-Cla
 cd XCUITest-Lesson-2-Base-Class-And-Extensions
 ```
 
-##Running Your Tests
+## Running Your Tests
 
-To run your test, you first need to open the Text Explorer window on the left hand side by clicking the icon shown below.
+1. Select the device as "iPhone 13 (15.2)"
+2. Open the project in XCode
+3. Click on the Test Navigator icon in the left navigation pane
 
 <img src="https://i.imgur.com/wyBCzGO.png"/>
 
-Once you are in this section, you can click on any of the Play buttons beside the tests or the main folder to run your tests:
+4. Click the Play icon next to the individual test under <b>Lesson2_BaseClassUITests</b> to run just that test.
 
 <img src="https://i.imgur.com/kI7J2Ol.png"/>
 
-
+5. If you want to run all the tests you can click the Play icon beside <b>Lesson2_BaseClassUITests</b>
