@@ -35,6 +35,6 @@ cd XCUITest-Lesson-2-Base-Class-And-Extensions
 
 4. Click the Play icon next to the individual test under <b>Lesson2_BaseClassUITests</b> to run just that test.
 
-<img src="https://i.imgur.com/kI7J2Ol.png" height="500" width="500"/>
+<img src="https://i.imgur.com/kI7J2Ol.png" height="500" width="300"/>
 
 5. If you want to run all the tests you can click the Play icon beside <b>Lesson2_BaseClassUITests</b>
